@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:azure
+}
+.category{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 30px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    min-width: 1000px;
+    row-gap: 30px;
+    font-family: 'Roboto' sans-serif;
+    font-size: larger;
+}
