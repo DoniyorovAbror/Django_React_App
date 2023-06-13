@@ -1,6 +1,7 @@
 
 # Frontend 
 */node_modules/
+
 */package-lock.json
 
 # Backend
@@ -10,3 +11,5 @@
 # IDE
 .vscode
 Backend/.env
+
+Frondend/my_app/node_modules/
